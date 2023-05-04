@@ -16,5 +16,5 @@
 
 #### 根据爬取的百度知道URL爬取相关的回答
 
-1. scrapy crawl baidu_zhidao --根据百度知道的**URL**爬取相关答案存入**zhihu_q**数据表
+1. scrapy crawl baidu_zhidao --根据百度知道的**URL**爬取相关答案存入**zhihu**数据表
 
